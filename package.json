@@ -1,0 +1,22 @@
+{
+  "name": "circuit-breaker-nodejs-example",
+  "version": "1.0.0",
+  "description": "Circuit breaker example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/helioalb/circuit-breaker-nodejs-example.git"
+  },
+  "keywords": [
+    "circuit-breaker"
+  ],
+  "author": "Helio Albano de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helioalb/circuit-breaker-nodejs-example/issues"
+  },
+  "homepage": "https://github.com/helioalb/circuit-breaker-nodejs-example#readme"
+}
